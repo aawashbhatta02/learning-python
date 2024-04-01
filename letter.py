@@ -1,0 +1,1 @@
+print(f"If your are reading this you probably have completed \n all the lessons of the python I am very proud of of you keep going!")
